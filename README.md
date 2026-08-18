@@ -46,8 +46,6 @@ Technology grows when people are free to:
 
 Many of my repositories are experiments created while learning something new.
 
-And that's exactly the point.
-
 ---
 
 ## 📫 Connect with me
